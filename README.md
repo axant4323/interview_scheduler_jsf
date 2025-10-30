@@ -1,5 +1,5 @@
 [WARP.md](https://github.com/user-attachments/files/23242266/WARP.md)
-# WARP.md
+
 
 This file provides guidance to WARP (warp.dev) when working with code in this repository.
 
